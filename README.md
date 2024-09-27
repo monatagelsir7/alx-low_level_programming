@@ -1,1 +1,1 @@
-First day of C a part of ALX Software Engineering program!
+ALX Software Engineering program! All about C!
